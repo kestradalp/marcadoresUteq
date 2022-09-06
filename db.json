@@ -1,0 +1,38 @@
+[
+  {
+    "idFacultad": "FCI",
+    "nomFacultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
+    "nomDecano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
+    "ubicacion": " Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "latitudV0": "-1.0125879486933707",
+    "latitudV1": "-79.47036738940757",
+    "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg"
+  },
+  {
+    "idFacultad": "FCA",
+    "nomFacultad": "FACULTAD DE CIENCIAS AGROPECUARIAS",
+    "nomDecano": "Ing. Leonardo Gonzalo Matute, M.Sc.",
+    "ubicacion": "Campus “La María”, km 7 vía Quevedo-El Empalme",
+    "latitudV0": "-1.081525365673253",
+    "latitudV1": "-79.50280758707027",
+    "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fcagrop.jpg"
+  },
+  {
+    "idFacultad": "FCIP",
+    "nomFacultad": "FACULTAD DE CIENCIAS DE LA INDUSTRIA Y LA PRODUCCIÓN",
+    "nomDecano": "Ing. Sonnia Esther Barzola Miranda, M.Sc.",
+    "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "latitudV0": "-1.0126340015654143",
+    "latitudV1": "-79.46919572912677",
+    "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fcip.jpg"
+  },
+  {
+    "idFacultad": "FCE",
+    "nomFacultad": " FACULTAD DE CIENCIAS EMPRESARIALES",
+    "nomDecano": "Ing. Mariela Susana Andrade Arias, PhD.",
+    "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+    "latitudV0": "-1.012247823766085",
+    "latitudV1": "-79.47014523109289",
+    "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg"
+  }
+]
